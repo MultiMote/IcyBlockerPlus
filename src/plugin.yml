@@ -1,0 +1,7 @@
+name: IcyBlockerPlus
+main: com.multi.icyblocker.Core
+version: 0.0.1
+author: MultiMote
+commands:
+   icy:
+    description: Команда для всего.
